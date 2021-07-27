@@ -1,0 +1,23 @@
+[
+    {
+        "latitude": 13.18,
+        "longitude": -78.90,
+        "title": "Foo Place",
+        "subtitle": "1234 Foo Drive"
+    },
+    {
+        "latitude": 30.03,
+        "longitude": -78.90,
+        "title": "Some Place",
+        "subtitle": "1234 Some GasStn"
+    },
+    {
+        "latitude": 45.65,
+        "longitude": -78.90,
+        "title": "Gas Place",
+        "subtitle": "1234 Gas station place"
+    }
+]
+
+
+
